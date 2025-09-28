@@ -1,6 +1,4 @@
-package prac.basics.interview;
-
-import prac.basics.java.codes.Employee;
+package interview;
 
 import java.util.*;
 import java.util.stream.Collectors;

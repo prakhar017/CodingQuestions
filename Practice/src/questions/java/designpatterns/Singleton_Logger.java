@@ -1,4 +1,4 @@
-package prac.basics.java.codes.designpatterns;
+package java.designpatterns;
 
 //import java.io.Serial;
 import java.io.Serializable;
