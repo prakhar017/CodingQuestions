@@ -1,4 +1,4 @@
-package leetcode.april.competition.leetcodes.codes.leetcode.april.competition.leetcodes.codes.questions.questions.leetcode.takeyouforward;
+package takeyouforward;
 
 import java.util.ArrayList;
 import java.util.Scanner;

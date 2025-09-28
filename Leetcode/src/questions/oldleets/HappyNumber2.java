@@ -1,4 +1,4 @@
-package leetcode.april.competition.leetcodes.codes.leetcode.april.competition.leetcodes.codes.questions;
+package oldleets;
 
 import java.util.HashSet;
 import java.util.Scanner;
